@@ -8,6 +8,7 @@
 [![Location](https://img.shields.io/badge/region-Indonesia-red.svg)](#)
 
 ![Preview Peta](https://raw.githubusercontent.com/kulikode-dev/peta-indonesia-interaktif-38-provinsi-format-power-point/main/images/1.png)
+![Preview Peta 2](https://raw.githubusercontent.com/kulikode-dev/peta-indonesia-interaktif-38-provinsi-format-power-point/main/images/2.png)
 
 Peta Indonesia Interaktif 38 Provinsi adalah solusi visualisasi data geografis berbasis PowerPoint yang dirancang untuk kebutuhan presentasi profesional, analisis bisnis, edukasi, maupun pelaporan data kewilayahan. Berbeda dengan gambar peta statis (JPG/PNG), produk ini berbasis vector shape yang memungkinkan setiap provinsi diklik secara interaktif dan diubah warnanya sesuai kebutuhan data Anda.
 
