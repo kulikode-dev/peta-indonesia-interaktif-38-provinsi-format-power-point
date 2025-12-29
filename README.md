@@ -60,7 +60,7 @@ Produk ini sudah mencakup seluruh provinsi di Indonesia sesuai data terbaru:
 ## 📂 Struktur Repositori
 ```text
 .
-├── assets/             # Berisi tangkapan layar dan aset visual preview
+├── images/             # Berisi tangkapan layar dan aset visual preview
 ├── docs/               # Panduan penggunaan tambahan (jika ada)
 └── README.md           # Dokumentasi utama proyek
 ```
